@@ -76,6 +76,3 @@ This hands-on lab teaches:
 
 ## License
 MIT License.
-
-e clock command**
-1. Show current time:
