@@ -1,29 +1,19 @@
-# 🌐 Cisco IOS Navigation Lab Screenshots
+🌐 Cisco IOS Navigation Lab Screenshots
 
-## 1. Console Connection
+1. Console Connection
 Packet Tracer topology showing PC1 connected to Switch S1 using a light-blue console cable.
 
----
-
-## 2. Terminal Settings (9600/8/N/1/None)
+2. Terminal Settings (9600/8/N/1/None)
 The Terminal Configuration dialog confirms the default serial port settings — Bits per second: 9600, Data bits: 8, Parity: None, Stop bits: 1, Flow control: None.
 
----
-
-## 3. Context-Sensitive Help Output
+3. Context-Sensitive Help Output
 The CLI screen displays the output of Cisco IOS’s context-sensitive help system.
 
----
+4. Privileged EXEC Prompt
+CLI prompt changes from S1> (user EXEC mode) to S1# (privileged EXEC mode).
 
-## 4. Privileged EXEC Prompt
-CLI prompt changes from `S1>` (user EXEC mode) to `S1#` (privileged EXEC mode).
-
----
-
-## 5. Clock Before/After with Error Example
+5. Clock Before/After with Error Example
 Displays the clock output prior to any changes, followed by the updated time and date after successful configuration. Also includes an IOS error message generated when attempting to set the clock using invalid values.
 
----
-
-## License
+License
 MIT License.
