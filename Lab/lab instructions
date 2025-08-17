@@ -7,21 +7,15 @@ This hands-on lab teaches:
 - Switching between User EXEC and Privileged EXEC modes  
 - Configuring the device clock with error handling  
 
----
-
 How to View the Lab
 1. Download the .pka file from this repository.  
 2. Open it in Cisco Packet Tracer.  
 3. Follow the step-by-step lab instructions in the .pka file.
 
----
-
 Repository Contents
 - ios-navigator-packet-tracer-lab.pka — Packet Tracer lab file.  
 - Navigate_the_IOS.docx — Detailed lab instructions.  
 - images/ — All screenshots used in this README.
-
----
 
 License
 MIT License.
